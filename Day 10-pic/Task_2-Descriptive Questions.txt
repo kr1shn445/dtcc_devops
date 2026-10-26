@@ -1,0 +1,83 @@
+1. Stock Market Trading
+Scenario: A trading firm notices unusual volatility in a stock's price.
+
+- Descriptive Analysis (What happened?)
+The stock price dropped by 8% within two trading hours, while trading volume increased to three times its usual level.
+
+- Diagnostic Analysis (Why did it happen?)
+The drop may have been caused by disappointing earnings, negative market news, or large institutional sell orders.
+
+- Predictive Analysis (What might happen next?)
+The stock may experience continued volatility or further price declines if selling pressure persists.
+
+- Prescriptive Analysis (What shall we do?)
+Monitor market news, reassess risk exposure, set appropriate stop-loss limits, and avoid making decisions based solely on short-term price movements.
+
+-------------------------------------------------
+
+2. Retail Store Inventory Management
+Scenario: A supermarket repeatedly runs out of essential products despite having sufficient overall inventory.
+
+- Descriptive Analysis:
+The store experienced 15 stockouts of high-demand products in one month, while other products remained unsold in storage.
+
+- Diagnostic Analysis:
+Stockouts occurred because demand forecasts were inaccurate and inventory was distributed unevenly across product categories.
+
+- Predictive Analysis:
+Popular products may run out again during weekends and holidays if current replenishment practices continue.
+
+- Prescriptive Analysis:
+Set product-specific reorder points, maintain safety stock for fast-moving items, and adjust replenishment schedules using sales trends.
+
+----------------------------------------------------
+
+3. Network Traffic and Cybersecurity
+Scenario: A company's network experiences a sudden increase in inbound traffic.
+
+- Descriptive Analysis:
+Incoming network traffic increased fivefold within ten minutes, and server response times deteriorated.
+
+- Diagnostic Analysis:
+Investigation reveals that thousands of requests are arriving from many sources, potentially indicating a distributed denial-of-service (DDoS) attack.
+
+- Predictive Analysis:
+If the traffic continues, the servers may become unavailable and legitimate users may lose access.
+
+- Prescriptive Analysis:
+Activate DDoS protection, apply rate limiting, filter malicious traffic, scale resources where appropriate, and monitor network logs.
+
+----------------------------------------------------
+
+4. Manufacturing and Equipment Maintenance
+Scenario: A factory's production line experiences increasingly frequent machine failures.
+
+- Descriptive Analysis:
+Machine downtime increased from 3 hours to 12 hours per week, reducing production output by 20%.
+
+- Diagnostic Analysis:
+Sensor readings reveal rising operating temperatures and unusual vibration levels, suggesting bearing wear or inadequate lubrication.
+
+- Predictive Analysis:
+The machine may experience a major failure soon if the abnormal readings continue.
+
+- Prescriptive Analysis:
+Schedule preventive maintenance, replace worn components, lubricate the equipment, and use 
+sensor-based alerts to identify future problems early.
+
+----------------------------------------------------
+
+5. Banking and Fraud Detection
+Scenario: A bank identifies an unusual pattern of customer transactions.
+
+- Descriptive Analysis:
+A customer account records 25 transactions within five minutes, totaling ₹1.5 lakh, unlike its usual activity.
+
+- Diagnostic Analysis:
+The transactions originated from unfamiliar devices and locations, suggesting possible account compromise or fraudulent activity.
+
+- Predictive Analysis:
+Similar transactions may continue if the account remains compromised.
+
+- Prescriptive Analysis:
+Apply the bank's fraud-risk checks, temporarily restrict suspicious transactions where policy permits, verify the customer's identity, and secure the account if fraud is confirmed.
