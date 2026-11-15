@@ -1,0 +1,7 @@
+Invalid date values in transaction_date column
+Row 3: Missing mandatory field 'transaction_id'
+Row 4: Missing mandatory field 'customer_id'
+Row 5: Amount must be greater than zero
+Row 6: Invalid transaction date
+Row 7: Unsupported currency
+Row 7: Invalid transaction status

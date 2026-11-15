@@ -1,0 +1,13 @@
+{
+    "batch_id": "8afa2eaf-8a54-4aab-87d6-d4ed0a7bf9b2",
+    "file_name": "transactions.csv",
+    "s3_key": "landing/transactions.csv",
+    "file_size": 303,
+    "last_modified": "2026-11-15T06:54:19+00:00",
+    "received_at": "2026-11-15T09:24:27.681878+00:00",
+    "status": "ACCEPTED",
+    "replay_attempt": 1,
+    "parent_batch_id": null,
+    "validation_error_count": 0,
+    "validation_errors": []
+}

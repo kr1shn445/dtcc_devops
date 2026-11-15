@@ -1,0 +1,20 @@
+{
+    "batch_id": "21083409-dbb9-4df7-8180-8f67dfe17a02",
+    "file_name": "transactions_invalid.csv",
+    "s3_key": "landing/transactions_invalid.csv",
+    "file_size": 337,
+    "last_modified": "2026-11-15T08:43:59+00:00",
+    "received_at": "2026-11-15T09:20:28.794022+00:00",
+    "status": "QUARANTINED",
+    "replay_attempt": 1,
+    "parent_batch_id": null,
+    "validation_error_count": 6,
+    "validation_errors": [
+        "Row 3: Missing mandatory field 'transaction_id'",
+        "Row 4: Missing mandatory field 'customer_id'",
+        "Row 5: Amount must be greater than zero",
+        "Row 6: Invalid transaction date",
+        "Row 7: Unsupported currency",
+        "Row 7: Invalid transaction status"
+    ]
+}
